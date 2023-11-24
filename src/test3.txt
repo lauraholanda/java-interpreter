@@ -1,0 +1,32 @@
+public static void main(String[] args){
+    //Teste cometário
+	int x, i, y, b;
+	char c[10];
+	int a[5];
+	x = 0;
+	b = 0;
+	c[] = "string";
+	for (i = 0; i <=1; i = i + 1 ) {
+		System.out.print("loop for");
+	}
+	while (x != 1) {
+		x = x + 1;
+		System.out.print("loop while");
+	}
+	System.out.print(y);
+	y = 200;
+	System.out.print(y);
+	System.out.print(c);
+	c[] = "c string";
+	while (x <= 7 && b != 2) {
+		System.out.print(x);
+		x = x + 1;
+		b = b + 1;
+	}
+	if(b > 2){
+		System.out.print("errado");
+	}
+	else {
+		System.out.print("certo");
+	}
+}

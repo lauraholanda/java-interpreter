@@ -1,0 +1,11 @@
+public static void main(String[] args){
+	int x, i, y, b;
+	char c[10];
+	int a[5];
+	x = 0;
+	b = 0;
+	c[] = "string";
+	for i = 0; i <=1; i = i + 1 ) {
+		System.out.print("loop for");
+	}
+}
